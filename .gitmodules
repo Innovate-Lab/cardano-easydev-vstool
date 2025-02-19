@@ -1,0 +1,6 @@
+[submodule "cardano-easydev-vstool-backend"]
+	path = cardano-easydev-vstool-backend
+	url = https://github.com/Innovate-Lab/cardano-easydev-vstool-backend
+[submodule "cardano-easydev-vstool-frontend-extension"]
+	path = cardano-easydev-vstool-frontend-extension
+	url = https://github.com/Innovate-Lab/cardano-easydev-vstool-frontend-extension
