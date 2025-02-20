@@ -55,6 +55,7 @@ Cardano EasyDev VS Tool is a powerful VS Code extension that streamlines Cardano
 - [Overview](#overview)
 - [Table of Contents](#table-of-contents)
 - [Documentation](#documentation)
+- [Documentation](#documentation-1)
 - [Features](#features)
 - [Why Cardano developer need this tool](#why-cardano-developer-need-this-tool)
 - [Cardano Catalyst Reports](#cardano-catalyst-reports)
@@ -64,7 +65,14 @@ Cardano EasyDev VS Tool is a powerful VS Code extension that streamlines Cardano
 
 ## Documentation
 
-**Gitbook**
+## Documentation
+
+📚 **Comprehensive Documentation**
+
+Our detailed documentation is available on **Gitbook**. Visit our documentation portal to learn more about:
+
+
+📎 [View Full Documentation](https://innolab.gitbook.io/cardano-easydev-vs-tool/)
 
 ## Features
 
