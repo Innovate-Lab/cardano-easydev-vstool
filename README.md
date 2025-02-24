@@ -50,6 +50,8 @@
 
 Cardano EasyDev VS Tool is a powerful VS Code extension that streamlines Cardano blockchain development workflows. It provides an integrated development environment with comprehensive tools for smart contract development, dApp creation, and blockchain interaction—all within your favorite code editor.
 
+<img src="images/banner.jpg" alt="Banner" width="100%">
+
 ## Table of Contents
 
 - [Overview](#overview)
