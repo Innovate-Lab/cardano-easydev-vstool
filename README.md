@@ -27,7 +27,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Innovate-Lab/cardano-easydev-vstool">
-    <img src="images/logo.png" alt="Logo" width="250" height="250">
+    <img src="images/logo.png" alt="Logo">
   </a>
 
 <h3 align="center">Cardano EasyDev VS Tool</h3>
